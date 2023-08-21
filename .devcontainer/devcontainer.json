@@ -1,0 +1,7 @@
+{
+	"name": "Ruby & Sinatra (Community)",
+	"build": {
+		"dockerfile": "Dockerfile"
+	}
+
+}
